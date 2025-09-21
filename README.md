@@ -36,4 +36,3 @@ and outputs an Excel file with both *Raw Data* and a bar chart in *Summary*.
 ### ▶ 使い方 / Usage
 ```bash
 python report.py
-
