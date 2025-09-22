@@ -35,7 +35,9 @@ This script generates a sales dataset, creates a summary by region,
 and outputs an Excel file with both *Raw Data* and a bar chart in *Summary*.
 
 ### 使い方 / Usage
-```bash
+
+~~~bash
 python report.py
-```
+~~~
+
 
