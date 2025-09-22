@@ -1,6 +1,6 @@
 # Python Automation Portfolio 🚀
 
-このリポジトリには、Pythonを使った小さな自動化プロジェクトをまとめています。  
+このリポジトリには、Pythonを使った自動化プロジェクトをまとめています。  
 スクレイピングやExcelレポート生成などを通じて、データ処理のスキルを実践的に学べます。
 
 This repository contains small automation projects written in Python.  
@@ -24,6 +24,8 @@ python scraper.py
 # 5ページ分スクレイピング / Scrape 5 pages
 python scraper.py 5
 
+---
+
 ## 2. Excel Auto Report (pandas + openpyxl)
 
 このスクリプトは、サンプルの売上データを作成し、地域ごとのサマリーを出力して、
@@ -35,4 +37,5 @@ and outputs an Excel file with both *Raw Data* and a bar chart in *Summary*.
 ### 使い方 / Usage
 ```bash
 python report.py
+```
 
