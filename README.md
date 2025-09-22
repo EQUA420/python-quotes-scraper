@@ -48,10 +48,10 @@ python3 report.py
 ### サンプル出力
 
 #### Apple 株価 (AAPL)
-![AAPL sample](docs/images/aapl_sampl.png)
+![AAPL sample](stock-analyzer/docs/images/aapl_sampl.png)
 
 #### トヨタ自動車 (7203.T)
-![Toyota sample](docs/images/aapl_sampl2.png)
+![Toyota sample](stock-analyzer/docs/images/aapl_sampl2.png)
 
 
 
