@@ -39,6 +39,21 @@ and outputs an Excel file with both *Raw Data* and a bar chart in *Summary*.
 python3 report.py
 ```
 
+## 2. Stock Analyzer (株価分析)
+
+- API: [yfinance](https://github.com/ranaroussi/yfinance) を利用して株価を取得
+- 分析: 移動平均線 (SMA) とボリンジャーバンドを可視化
+- 出力: Excel + PNG グラフ
+
+### サンプル出力
+
+#### Apple 株価 (AAPL)
+![AAPL sample](docs/images/aapl_sampl.png)
+
+#### トヨタ自動車 (7203.T)
+![Toyota sample](docs/images/aapl_sampl2.png)
+
+
 
 
 
