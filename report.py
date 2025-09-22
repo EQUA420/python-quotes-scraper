@@ -1,11 +1,5 @@
 
----
 
-### 2. report.py  
-これは「実際に動くコード」を書く場所です。  
-古いファイル削除の処理などはこちらにまとめて入れます。
-
-```python
 import pandas as pd
 from datetime import datetime
 from openpyxl import load_workbook
