@@ -34,6 +34,7 @@ python scraper.py 5
 This script generates a sales dataset, creates a summary by region,
 and outputs an Excel file with both *Raw Data* and a bar chart in *Summary*.
 
+```markdown
 ### 使い方 / Usage
 ```bash
 python report.py
